@@ -433,7 +433,7 @@ void showUserDetailsDialog(BuildContext context, String userId, String title) {
           }
           if (snapshot.hasError || !snapshot.hasData) {
             return AlertDialog(
-              title: const Text('Error'),
+              title: const Text('Errore'),
               content:
                   const Text('No se pudieron cargar los detalles del usuario.'),
               actions: [
