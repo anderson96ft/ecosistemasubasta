@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "566996127994",
+    "project_id": "democracia-digital-7a4b8",
+    "storage_bucket": "democracia-digital-7a4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566996127994:android:1b4b59e658fb17f114f943",
+        "android_client_info": {
+          "package_name": "com.glucorp.subasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566996127994-dndf7dcs1e9ff880nm8md9lhrfesu4h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glucorp.subasta",
+            "certificate_hash": "ab4fe886e349c8b6a41c59293fc1e64e47564d4c"
+          }
+        },
+        {
+          "client_id": "566996127994-ubdrtrghhfjv22h4g5f1a4f95s5j54pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHPmnpL-YX1DkZEeQRqM-g1wDleGyRjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566996127994-ubdrtrghhfjv22h4g5f1a4f95s5j54pv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566996127994-hf0quf7spv4sjscjn6e5es43e9ch8m90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glucorp.subasta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
